@@ -1,0 +1,50 @@
+/*
+Console.WriteLine("Введите число a");
+int numberA = Convert.ToInt32 (Console.ReadLine());
+Console.WriteLine("Введите число b");
+int numberB = Convert.ToInt32 (Console.ReadLine());
+if (numberA > numberB)
+{
+    Console.WriteLine("Число " + numberA + " больше " + numberB);
+} 
+else 
+{
+    Console.WriteLine("Число " + numberB + " больше " + numberA);
+}
+*/
+/*Console.WriteLine("Введите число A");
+int numberA = Convert.ToInt32 (Console.ReadLine());
+Console.WriteLine("Введите число B");
+int numberB = Convert.ToInt32 (Console.ReadLine());
+Console.WriteLine("Введите число C");
+int numberC = Convert.ToInt32 (Console.ReadLine());
+int max = numberA;
+if (numberB > max)
+{
+max = numberB;
+}
+if (numberC > max)
+{
+max = numberC;
+}
+Console.WriteLine(max);
+*/
+/*Console.WriteLine("Введите число");
+int numberA = Convert.ToInt32 (Console.ReadLine());
+if (numberA % 2 == 0){
+    Console.WriteLine ("четное");
+}
+else {
+    Console.WriteLine ("нечетное");
+}
+*/
+/*onsole.WriteLine("Введите число");
+int number = Convert.ToInt32 (Console.ReadLine());
+while (number > 1)
+{
+    if (number % 2 == 0){
+        Console.WriteLine (number);
+    }
+    number = number - 1;
+}
+*/
